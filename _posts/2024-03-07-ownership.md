@@ -2,7 +2,8 @@
 title: Ownership
 date: 2024-03-07 00:14:08 +0000
 categories: [Ownership, Introduction]
-tags: [rust, beginners, variables, data-types, introduction]
+tags:
+  [rust, beginners, variables, data-types, ownership, stack, heap, introduction]
 ---
 
 ## Ownership

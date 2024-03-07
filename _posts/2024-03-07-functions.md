@@ -2,7 +2,7 @@
 title: Functions
 date: 2024-03-06 20:45:08 +0000
 categories: [Functions, Introduction]
-tags: [rust, beginners, variables, data-types]
+tags: [rust, beginners, variables, data-types, functions]
 ---
 
 # Functions
