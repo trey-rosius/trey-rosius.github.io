@@ -7,6 +7,8 @@ tags: [tag1, tag2]
 img_path: /assets/posts/
 ---
 
+
+
 ### You can use GIFs too! 🤩
 
 ![Website Demo](rorustDemo.gif){: .shadow}
