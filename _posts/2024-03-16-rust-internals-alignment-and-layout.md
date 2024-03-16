@@ -181,3 +181,7 @@ In Rust, understanding type alignment, layouts, and trait objects is essential f
 While Rust's default memory layout optimizations make it well-suited for most use cases, developers should carefully consider the performance implications when working with trait objects and choose the representation types that best suit their specific requirements.
 
 By leveraging Rust's powerful features and understanding how they impact efficiency and performance, developers can build high-performance applications that are both robust and maintainable.
+
+## REFERENCE
+
+[Rust for Rustaceans by Jon Gjengset](https://rust-for-rustaceans.com/)
